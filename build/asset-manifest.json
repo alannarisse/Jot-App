@@ -1,16 +1,18 @@
 {
-  "main.css": "/Jot-App/static/css/main.59cb9b15.chunk.css",
-  "main.js": "/Jot-App/static/js/main.5a92da17.chunk.js",
-  "main.js.map": "/Jot-App/static/js/main.5a92da17.chunk.js.map",
-  "static/css/1.0c3a3f63.chunk.css": "/Jot-App/static/css/1.0c3a3f63.chunk.css",
-  "static/js/1.8258dfef.chunk.js": "/Jot-App/static/js/1.8258dfef.chunk.js",
-  "static/js/1.8258dfef.chunk.js.map": "/Jot-App/static/js/1.8258dfef.chunk.js.map",
-  "runtime~main.js": "/Jot-App/static/js/runtime~main.0bda3f70.js",
-  "runtime~main.js.map": "/Jot-App/static/js/runtime~main.0bda3f70.js.map",
-  "static/media/index.css": "/Jot-App/static/media/roboto-latin-900italic.bc833e72.woff",
-  "static/css/main.59cb9b15.chunk.css.map": "/Jot-App/static/css/main.59cb9b15.chunk.css.map",
-  "static/css/1.0c3a3f63.chunk.css.map": "/Jot-App/static/css/1.0c3a3f63.chunk.css.map",
-  "index.html": "/Jot-App/index.html",
-  "precache-manifest.b1c0d7e1ed0d635237960d827c14044f.js": "/Jot-App/precache-manifest.b1c0d7e1ed0d635237960d827c14044f.js",
-  "service-worker.js": "/Jot-App/service-worker.js"
+  "files": {
+    "main.css": "/Jot-App/static/css/main.d5a1f4b7.chunk.css",
+    "main.js": "/Jot-App/static/js/main.c97fa485.chunk.js",
+    "main.js.map": "/Jot-App/static/js/main.c97fa485.chunk.js.map",
+    "runtime~main.js": "/Jot-App/static/js/runtime~main.13a31211.js",
+    "runtime~main.js.map": "/Jot-App/static/js/runtime~main.13a31211.js.map",
+    "static/css/2.8bb7edeb.chunk.css": "/Jot-App/static/css/2.8bb7edeb.chunk.css",
+    "static/js/2.607ef82f.chunk.js": "/Jot-App/static/js/2.607ef82f.chunk.js",
+    "static/js/2.607ef82f.chunk.js.map": "/Jot-App/static/js/2.607ef82f.chunk.js.map",
+    "index.html": "/Jot-App/index.html",
+    "precache-manifest.e2e49796efc6f6c90d67f53285b6f096.js": "/Jot-App/precache-manifest.e2e49796efc6f6c90d67f53285b6f096.js",
+    "service-worker.js": "/Jot-App/service-worker.js",
+    "static/css/2.8bb7edeb.chunk.css.map": "/Jot-App/static/css/2.8bb7edeb.chunk.css.map",
+    "static/css/main.d5a1f4b7.chunk.css.map": "/Jot-App/static/css/main.d5a1f4b7.chunk.css.map",
+    "static/media/index.css": "/Jot-App/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
 }
