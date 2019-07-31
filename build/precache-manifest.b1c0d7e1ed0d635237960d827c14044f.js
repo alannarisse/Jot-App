@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "d69924b98acd849cdeba9fbff3f88ea6",
-    "url": "/Jot-App/static/media/roboto-latin-300italic.d69924b9.woff2"
+    "revision": "210a7c781f5a354a0e4985656ab456d9",
+    "url": "/Jot-App/static/media/roboto-latin-300italic.210a7c78.woff"
   },
   {
     "revision": "5a92da17346863249ad1",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/Jot-App/static/js/main.5a92da17.chunk.js"
   },
   {
-    "revision": "210a7c781f5a354a0e4985656ab456d9",
-    "url": "/Jot-App/static/media/roboto-latin-300italic.210a7c78.woff"
+    "revision": "d69924b98acd849cdeba9fbff3f88ea6",
+    "url": "/Jot-App/static/media/roboto-latin-300italic.d69924b9.woff2"
   },
   {
     "revision": "bafb105baeb22d965c70fe52ba6b49d9",
@@ -96,20 +96,20 @@ self.__precacheManifest = [
     "url": "/Jot-App/static/media/roboto-latin-700.cf6613d1.woff"
   },
   {
-    "revision": "010c1aeee3c6d1cbb1d5761d80353823",
-    "url": "/Jot-App/static/media/roboto-latin-700italic.010c1aee.woff2"
-  },
-  {
-    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
-    "url": "/Jot-App/static/media/roboto-latin-900.8c2ade50.woff"
-  },
-  {
     "revision": "846d1890aee87fde5d8ced8eba360c3a",
     "url": "/Jot-App/static/media/roboto-latin-700italic.846d1890.woff"
   },
   {
+    "revision": "010c1aeee3c6d1cbb1d5761d80353823",
+    "url": "/Jot-App/static/media/roboto-latin-700italic.010c1aee.woff2"
+  },
+  {
     "revision": "7b770d6c53423deb1a8e49d3c9175184",
     "url": "/Jot-App/static/media/roboto-latin-900italic.7b770d6c.woff2"
+  },
+  {
+    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
+    "url": "/Jot-App/static/media/roboto-latin-900.8c2ade50.woff"
   },
   {
     "revision": "8258dfef5a796a3c01d1",

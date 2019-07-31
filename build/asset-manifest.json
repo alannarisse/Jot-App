@@ -8,9 +8,9 @@
   "runtime~main.js": "/Jot-App/static/js/runtime~main.0bda3f70.js",
   "runtime~main.js.map": "/Jot-App/static/js/runtime~main.0bda3f70.js.map",
   "static/media/index.css": "/Jot-App/static/media/roboto-latin-900italic.bc833e72.woff",
-  "static/css/1.0c3a3f63.chunk.css.map": "/Jot-App/static/css/1.0c3a3f63.chunk.css.map",
   "static/css/main.59cb9b15.chunk.css.map": "/Jot-App/static/css/main.59cb9b15.chunk.css.map",
+  "static/css/1.0c3a3f63.chunk.css.map": "/Jot-App/static/css/1.0c3a3f63.chunk.css.map",
   "index.html": "/Jot-App/index.html",
-  "precache-manifest.d181595a2de436531167dcdf7b494c9d.js": "/Jot-App/precache-manifest.d181595a2de436531167dcdf7b494c9d.js",
+  "precache-manifest.b1c0d7e1ed0d635237960d827c14044f.js": "/Jot-App/precache-manifest.b1c0d7e1ed0d635237960d827c14044f.js",
   "service-worker.js": "/Jot-App/service-worker.js"
 }
